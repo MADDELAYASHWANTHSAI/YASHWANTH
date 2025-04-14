@@ -4,7 +4,7 @@
 <h3 align="center">Computer Science Engineer | Full Stack Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif">
+  <img src="https://github.com/user-attachments/assets/49260736-eddd-4f3c-afbb-58994f971f52" width="300" alt="coding gif">
 </p>
 
 ---
